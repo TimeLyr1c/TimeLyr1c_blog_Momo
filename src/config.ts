@@ -7,7 +7,7 @@ import type {
 import type { FriendLink } from "./types/friend"
 
 export const siteConfig: SiteConfig = {
-    title: "Momo",
+    title: "TimeLyr1c",
     subTitle: "Blog",
 
     favicon: "/favicon/favicon.ico", // Path of the favicon, relative to the /public directory
@@ -21,17 +21,17 @@ export const siteConfig: SiteConfig = {
         enable: true // Whether to enable blog navigation in the blog footer
     },
     comments: {
-        enable: true, // Whether to enable comments
+        enable: false, // Whether to enable comments
         backendUrl: "https://api-momo.motues.top" // Backend URL for comments
     }
 }
 
 export const profileConfig: ProfileConfig = {
     avatar: "assets/Motues.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-    name: "Motues",
-    description: "Life is colorful!",
+    name: "TimeLyr1c",
+    description: "做自己的英雄",
     indexPage: "https://motues.top",
-    startYear: 2024,
+    startYear: 2026,
 }
 
 export const licenseConfig: LicenseConfig = {
