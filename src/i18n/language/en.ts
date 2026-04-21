@@ -15,7 +15,7 @@ const translation: Translation = {
             friends: "Friends",
         },
         subTitle: {
-            home: "Be my own hero",
+            home: "Anyway the wind blows dosen't really matter to me. ",
             archive: "Total of {count} articles",
             about: "A hardworking NYUer 2030",
             friends: "Interesting Souls",

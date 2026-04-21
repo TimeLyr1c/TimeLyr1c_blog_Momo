@@ -15,7 +15,7 @@ const translation: Translation = {
             friends: "友链",
         },
         subTitle: {
-            home: "做自己的英雄",
+            home: "欲买桂花同载酒，终不似，少年游",
             archive: "共 {count} 篇文章",
             about: "一个正在努力的NYUer 2030",
             friends: "有趣的灵魂",
