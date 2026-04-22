@@ -1,39 +1,26 @@
 
-Momo originates from Xiaohongshu's 📕, serving as every new user's initial nickname, symbolizing a fresh start. The blog's design philosophy stems from this concept, beginning with simplicity to strike a balance between complex functionality and minimalist aesthetics.
+## About Me
 
-## ✨ Features
+Hello, I’m TimeLyr1c. You can also call me William.
 
-* **Minimalist Design**: Clean page layout with black and white as primary colors, accented by blue
-* **Dark Mode**: Supports manual switching or automatic system adaptation
-* **Article Search**: Implements localized search using [pagefind](https://pagefind.app/)
-* **Internationalization (i18n)**: Supports multilingual switching, currently available in Simplified Chinese and English
-* **Mobile Optimization**: Components optimized for mobile devices, delivering the same experience as desktop browsers
-* **Commenting System**: Supports local deployment and Cloudflare deployment. Details in [Backend](https://github.com/Motues/Momo-Backend)
-* **Extensive Markdown syntax**: Supports Katex, Typst, and Alert components, GitHub cards, custom syntax, and more
-* Additional Core Features: Post categorization, directory, RSS subscription, text statistics, reading time
+The meaning of this username comes from two combined words: “time” and “lyric”.
 
+“Time” — Life between heaven and earth passes like a fleeting white colt through a crack, gone in an instant. I regard time as something unique and wish to preserve it.  
+“Lyric” — Because I am often moved by song lyrics. Music in my childhood was like a beam of light that healed my darkness. Hence the name “TimeLyr1c”.
 
-## 🚀 Quick Start
+## The Past and Present of My Blog
 
-1. Clone this project
-    ```bash
-    git clone https://github.com/Motues/Momo.git
-    cd Momo
-    ```
-2. Run `pnpm install` to install dependencies (use `npm install -g pnpm` to install `pnpm`)
-3. Run `pnpm dev` to start the development server
+For details, see [My First Blog Post](../blog/blog/restart/)
 
-## 🔧 Configuration
+## My Interests
 
-Refer to the [Configuration Guide](/en/blog/intro/config) and read the corresponding articles for detailed information.
+- Music  
+- Chess  
+- Games (CS2, Teamfight Tactics, KARDS)  
+- Photography  
 
-## 📚 Updates
+## Website Development Log
 
-Refer to the [Update Guide](/en/blog/intro/release) for instructions on updating the project.
-
-
-## 📚 References
-
-* [Astro](https://astro.build/)
-* [Fuwari](https://github.com/saicaca/fuwari)
-* [Tyndall](https://github.com/moyuin-aka/tyndall-public)
+| Date | Record |
+| --- | --- |
+| 2026.04.21 | The blog was deployed and launched on Cloudflare Pages using the Momo theme |
