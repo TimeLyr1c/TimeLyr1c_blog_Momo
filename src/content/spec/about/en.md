@@ -10,7 +10,7 @@ The meaning of this username comes from two combined words: “time” and “ly
 
 ## The Past and Present of My Blog
 
-For details, see [My First Blog Post](../blog/blog/restart/)
+For details, see [My First Blog Post](../blog/blog/2026/2026-04-21/)
 
 ## My Interests
 
