@@ -1,6 +1,6 @@
 ---
 title: Reflections on Exams / Graduation Season
-pubDate: 2026-04-22
+pubDate: 2026-04-24
 description: When does high school end
 category: Thoughts
 image: ""
