@@ -19,6 +19,10 @@ For details, see [My First Blog Post](../blog/blog/2026/2026-04-21/)
 - Games (CS2, Teamfight Tactics, KARDS)  
 - Photography  
 
+## About i18n on This Website
+
+Momo supports i18n, so I chose to write in both Chinese and English. However, due to my limited English proficiency, most of the English content on this blog is machine-translated by a model and may contain inaccuracies. All posts are originally written in Chinese.
+
 ## Website Development Log
 
 | Date | Record |
