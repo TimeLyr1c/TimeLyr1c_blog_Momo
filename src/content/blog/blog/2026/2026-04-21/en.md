@@ -5,7 +5,7 @@ description: Why I start my blog site again
 category: Feelings
 image: ""
 draft: false
-slugId: blog/restart
+slugId: blog/blog/2026/2026-04-21
 ---
 
 On April 21, 2026, my third blog went online. I've finally started writing again. This time, it is hosted on Cloudflare Pages. It’s my first time using Cloudflare to host both my domain and website, and it feels quite fast and simple.

@@ -1,11 +1,11 @@
 ---
 title: Reflections on Exams / Graduation Season
 pubDate: 2026-04-24
-description: When does high school end
+description: Before graduation
 category: Thoughts
 image: ""
 draft: false
-slugId: blog/20260422feelings
+slugId: blog/blog/2026/2026-04-23
 ---
 
 :::quote

@@ -1,11 +1,11 @@
 ---
 title: 大考/毕业季有感
 pubDate: 2026-04-24
-description: 高中什么时候结束
+description: 放假前的随笔
 category: 碎碎念
 image: ""
 draft: false
-slugId: blog/20260422feelings
+slugId: blog/blog/2026/2026-04-23
 ---
 
 :::quote

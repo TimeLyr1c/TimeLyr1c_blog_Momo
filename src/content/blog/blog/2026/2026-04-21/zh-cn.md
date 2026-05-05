@@ -5,7 +5,7 @@ description: 再一次建站写博客的原因
 category: 碎碎念
 image: ""
 draft: false
-slugId: blog/restart
+slugId: blog/blog/2026/2026-04-21
 ---
 
 2026年4月21，我的第三个博客上线了。终于再一次写起来了。这一次，是我在Cloudflare Pages托管的。第一次用Cloudflare托管我的域名和网站，感觉还是挺快挺简单的。
